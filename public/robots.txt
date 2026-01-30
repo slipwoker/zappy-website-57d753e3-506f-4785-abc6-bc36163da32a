@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://king-of-spreads-57d753e3.zappy5.app/sitemap.xml

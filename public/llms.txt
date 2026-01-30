@@ -1,0 +1,85 @@
+# King of Spreads — Generative Engine Optimization Map
+
+> A food and baking supplies business.
+
+---
+
+## Pages
+
+### Home
+https://king-of-spreads-57d753e3.zappy5.app
+
+### Products
+https://king-of-spreads-57d753e3.zappy5.app/products
+Our Products - King of Spreads
+
+### Bulk & Quality
+https://king-of-spreads-57d753e3.zappy5.app/quality-bulk
+
+### Contact
+https://king-of-spreads-57d753e3.zappy5.app/contact
+
+### Cart
+https://king-of-spreads-57d753e3.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://king-of-spreads-57d753e3.zappy5.app/checkout
+Checkout
+
+### Login
+https://king-of-spreads-57d753e3.zappy5.app/login
+Customer Login
+
+### Account
+https://king-of-spreads-57d753e3.zappy5.app/account
+My Account
+
+### Order Success
+https://king-of-spreads-57d753e3.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://king-of-spreads-57d753e3.zappy5.app/product/:slug
+Product Details - King of Spreads
+
+### Category
+https://king-of-spreads-57d753e3.zappy5.app/category/:slug
+Products - King of Spreads
+
+## Legal & Policy
+
+### Privacy Policy
+https://king-of-spreads-57d753e3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://king-of-spreads-57d753e3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://king-of-spreads-57d753e3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About King of Spreads
+King of Spreads is a business in the food and baking supplies industry.
+
+## Target Audience
+- Home Baking Enthusiasts
+- Professional Bakers and Pastry Chefs
+- Baking Instructors and Schools
+- Small Event Caterers
+
+## Industry
+food and baking supplies
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://king-of-spreads-57d753e3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://king-of-spreads-57d753e3.zappy5.app/robots.txt
